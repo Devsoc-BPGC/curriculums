@@ -23,5 +23,9 @@
 
 
 
-#### We wish you all the best for your development journey ahead!
+#### All the best for your development journey ahead!
 *Keep learning, keep developing*
+
+
+## Giving Suggestions
+We are always open to updating our roadmap / adding other resources. If you find any mistake or would like to add anything to these roadmaps, feel free to open a PR. :rocket:
