@@ -29,3 +29,5 @@
 
 ## Giving Suggestions
 We are always open to updating our roadmap / adding other resources. If you find any mistake or would like to add anything to these roadmaps, feel free to open a PR. :rocket:
+
+#### Our members have worked really hard trying to make these for everyone, so if you feel that these have helped you, do star :star: the repo and show your love.
