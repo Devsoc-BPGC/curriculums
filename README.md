@@ -19,7 +19,7 @@
 ### Game Development
 ![Mobile Development](https://github.com/Devsoc-BPGC/curriculums/blob/main/imgs/gameDRoadmap.png)
 
-**Start your journey in Game Development [here](https://www.notion.so/DevSoc-Game-Development-Resources-5d74bf0c840441ed9cd60f74fc819064)**
+**Start your journey in Game Development [here](https://www.notion.so/DevSoc-Game-Development-Roadmap-6a41d14ab13c47d182530987e71a656c)**
 
 
 
