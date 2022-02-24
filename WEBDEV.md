@@ -1,4 +1,5 @@
 # <img src="https://cdn.cdnlogo.com/logos/c/54/chrome-dev.svg" width="40" height="40"> Web Dev Roadmap
+[![Made with love](https://img.shields.io/badge/Made%20With%20%E2%9D%A4%EF%B8%8F%20%20by-DevSoc-blue.svg)](https://devsoc.club/)
 
 ### ~ Mayank Mathur (Web Dev Head)
 
