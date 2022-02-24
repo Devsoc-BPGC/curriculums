@@ -1,13 +1,11 @@
-# Web Dev Roadmap
+# <img src="https://cdn.cdnlogo.com/logos/c/54/chrome-dev.svg" width="40" height="40"> Web Dev Roadmap
+
+### ~ Mayank Mathur (Web Dev Head)
 
 #### Note:
 
 1. Never buy any course, everything is available for free on internet.
 2. If faceing any problem or bugs, google you can find everything on stackoverflow and documentation of libraries you are using.
-
-## <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25" height="25">  Git and Github (version control)((basic))
-
-[Git & GitHub Tutorial for Beginners](https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 
 ## Vanilla WebDev (Basics)
 
