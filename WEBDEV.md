@@ -11,7 +11,7 @@
 
 ## Vanilla WebDev (Basics)
 
-### <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="25" height="25"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="25" height="25"> HTML5 and CSS3
+### <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="25" height="25"> HTML5 and <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="25" height="25"> CSS3
 
 - HTML5 and CSS3 from scratch
 
