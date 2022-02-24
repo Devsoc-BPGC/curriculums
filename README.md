@@ -3,8 +3,10 @@
 [![Made with love](https://img.shields.io/badge/Made%20With%20%E2%9D%A4%EF%B8%8F%20%20by-DevSoc-blue.svg)](https://devsoc.club/)
 
  A collection of resources and assignments that we recommend for beginners <3.
+ 
+### <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25" height="25">  Git and Github (version control)((basic))
 
-
+- [Git & GitHub Tutorial for Beginners](https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 
 ### Mobile Development
 ![Mobile Development](https://github.com/Devsoc-BPGC/curriculums/blob/main/imgs/mobileDevRoadmap.jpeg)
@@ -14,7 +16,7 @@
 ### Web Development
 ![Mobile Development](https://github.com/Devsoc-BPGC/curriculums/blob/main/imgs/webDRoadmap.png)
 
-**Start your journey in Web Development [here](https://whimsical.com/devsoc-basic-webdev-roadmap-8hQe8dmmFzm5PAdEVFKY2t)**
+**Start your journey in Web Development [here](./WEBDEV.md)**
 
 ### Game Development
 ![Mobile Development](https://github.com/Devsoc-BPGC/curriculums/blob/main/imgs/gameDRoadmap.png)
