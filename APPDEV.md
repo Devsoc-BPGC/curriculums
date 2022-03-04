@@ -46,6 +46,7 @@ To keep yourself updated with the latest practices and features that android kee
  _JetBrain Academy provides free courses guiding with its unique approach of teaching while guiding you through a project in a tut + quiz-based learning approach. 
 Please make sure to choose a project from the “Easy” category only_
  
+<img src="https://github.com/UvrajSB/curriculums/blob/main/imgs/hyperskill_ss.png" style="height: 300px; width:500px;"/>
 </details>
 <details open>
 <summary>✨Udacity’s Course By Google</summary>
@@ -55,7 +56,7 @@ Please make sure to choose a project from the “Easy” category only_
   
  _These courses are taught by no one else but google’s own advocates and are really good in terms of content quality and lecture delivery.
 Complete only the first three Lessons of this course at this stage._
- 
+ <img src="https://github.com/UvrajSB/curriculums/blob/main/imgs/android_udacity_course_ss.png" style="height: 300px; width:500px;"/>
 </details>
 
 
