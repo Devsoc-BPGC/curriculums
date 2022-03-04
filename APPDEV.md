@@ -56,6 +56,7 @@ Please make sure to choose a project from the “Easy” category only_
   
  _These courses are taught by no one else but google’s own advocates and are really good in terms of content quality and lecture delivery.
 Complete only the first three Lessons of this course at this stage._
+<br>
  <img src="https://github.com/UvrajSB/curriculums/blob/main/imgs/android_udacity_course_ss.png" style="height: 300px; width:500px;"/>
 </details>
 
