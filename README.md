@@ -11,7 +11,7 @@
 ### Mobile Development
 ![Mobile Development](https://github.com/Devsoc-BPGC/curriculums/blob/main/imgs/mobileDevRoadmap.jpeg)
 
-**Start your journey in Mobile Development [here](https://whimsical.com/mobile-development-roadmap-devsoc-WQEsHr372VrnvxBSaggPnc)**
+**Start your journey in Mobile Development [here](./APPDEV.md)**
 
 ### Web Development
 ![Mobile Development](https://github.com/Devsoc-BPGC/curriculums/blob/main/imgs/webDRoadmap.png)
