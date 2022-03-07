@@ -124,5 +124,23 @@ The major difference is in the teaching manner. They teach using “Codelabs” 
 ._
 
 
+ 
+  ## _Cross Platform Track - Flutter_
+  
+  ### What is Flutter?
+  ------------
+  #### Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+  
+  ### Why Choose Flutter?
+  ![image](https://user-images.githubusercontent.com/77982973/157053914-31e72a62-8329-4f16-918c-972cd56b87de.png)
+  
+  
+<details open>
+<summary>Official Flutter Resources</summary>
+<br>
+ 
+- [Flutter Introduction](https://youtu.be/fq4N0hgOWzU)
+ 
+</details>
 
 
