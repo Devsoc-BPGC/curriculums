@@ -126,7 +126,8 @@ The major difference is in the teaching manner. They teach using “Codelabs” 
 
 
  
-  ## _Cross Platform Track - Flutter_
+  ## _Cross Platform Track - Flutter_ ![file_type_flutter_icon_130599](https://user-images.githubusercontent.com/77982973/158015418-22478b9f-91f9-456c-9d50-0956e873ded5.png)
+
   
   ### What is Flutter?
   ------------
@@ -137,7 +138,7 @@ The major difference is in the teaching manner. They teach using “Codelabs” 
   
   
 <details open>
-<summary>Official Flutter Resources</summary>
+<summary>Official Flutter Resources </summary>
 <br>
  
 - [Flutter Introduction](https://youtu.be/fq4N0hgOWzU)
@@ -150,7 +151,8 @@ The major difference is in the teaching manner. They teach using “Codelabs” 
  
 </details>
 
-  ## Installing Flutter
+  ## Installing Flutter ![file_type_flutter_icon_130599](https://user-images.githubusercontent.com/77982973/158015418-22478b9f-91f9-456c-9d50-0956e873ded5.png)
+
  - Getting Started with Flutter is differet from Native Android, so to help you out with this Use these resources to install Flutter on you local device.
   
   - [Installation Article](https://medium.com/@kaustubh8g/how-to-install-and-setup-flutter-to-run-your-first-app-a5dc71a669b)
@@ -174,7 +176,14 @@ Knowledge of Object Oriented Programming is necesary for every Developer and the
 ## Flutter Development 
  
 - Google Provides tools and resources for developers to help them develop and code in Flutter. 
+
+### Beginner Track
+----
 - [Beginner Flutter Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) - Playlist by YT channel The Net Ninja for Beginner who are starting off with Flutter.
 - [Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) - Short Videos made by Flutter Team to make you familiar with all the Widgets.
 - [Git Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
-- [Flutter and Firebase](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC) - Firebase is a platform developed by Google for creating mobile and web application. We will be using this for your backend. (Part of this video series uses depricated syntax, so for the updated Syntax look  at the [Official Docs](https://firebase.flutter.dev/docs/overview/) or [Here](https://www.youtube.com/watch?v=LnpGU8vj7TI) )
+### Intermediate Track
+----
+- [Flutter and Firebase](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC) - Firebase is a platform developed by Google for creating mobile and web application. We will be using this for your backend. (Part of this video series uses depricated syntax, so for the updated Syntax look  at the [Official Docs](https://firebase.flutter.dev/docs/overview/) or [Here](https://www.youtube.com/watch?v=LnpGU8vj7TI) 
+- [Animations in Flutter](https://airbnb.io/lottie/) - We will be using somthing called as Lottie Animations! [Here](https://www.youtube.com/watch?v=YcUip0Y8CUg) is a tutorial using Lottie Animations in Flutter to create a Splash Screen.
+
