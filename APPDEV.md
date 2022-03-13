@@ -1,32 +1,15 @@
 
-# Android Dev Road Map 🔥
+# App Dev Road Map 🔥
 ## _Native Android Track_
 
 <img src="https://github.com/UvrajSB/curriculums/blob/main/imgs/android_banner.jpg" style="height: 100px; width:250px;"/>
 
-### 🌟Keep your eyes on the state of the art while learning👀
-------------
-To keep yourself updated with the latest practices and features that android keeps on introducing very frequently, make sure that you visit these platforms regularly.
-</br>
-<details open>
-<summary>Links to platforms</summary>
-<br>
-  
-|Platforms|Links|
-| ------ | ------ |
-| Official Android developer website | https://developer.android.com/ |
-| Android Developers Blog | https://android-developers.googleblog.com/ |
-| Android Developers Medium blog | https://medium.com/androiddevelopers |
-|Android Developers YouTube channel| https://www.youtube.com/user/androiddevelopers |
-| @AndroidDev on Twitter  | https://twitter.com/androiddev?lang=en |
-| Android Developer Newsletter | http://d.android.com/subscribe |
- </br>
-</details>
-
 ### 🌟Learning Kotlin (Basics)
 --------------------
 
-<details open>
+You can start learning Kotlin from either of these three sources.
+
+<details closed>
 <summary>✨Through Docs</summary>
 <br>
   
@@ -38,7 +21,7 @@ To keep yourself updated with the latest practices and features that android kee
 
 </details>
 
-<details open>
+<details closed>
 <summary>✨JetBrain Academy</summary>
 <br>
   
@@ -49,7 +32,7 @@ Please make sure to choose a project from the “Easy” category only_
  
 <img src="https://github.com/UvrajSB/curriculums/blob/main/imgs/hyperskill_ss.png" style="height: 300px; width:500px;"/>
 </details>
-<details open>
+<details closed>
 <summary>✨Udacity’s Course By Google</summary>
 <br>
   
@@ -60,6 +43,8 @@ Complete only the first three Lessons of this course at this stage._
 <br>
  <img src="https://github.com/UvrajSB/curriculums/blob/main/imgs/android_udacity_course_ss.png" style="height: 300px; width:500px;"/>
 </details>
+
+[Kotlin Playground](https://play.kotlinlang.org/) to play around with kotlin code and do experiments if you want.
 
 
 ### 🌟Learning Elementary Object Oriented Programming 
@@ -123,10 +108,32 @@ _This course is taught by google’s advocates and is developed by google only. 
  _This is course is similar to the former one in terms of it’s origin from google thus equally inherits the quality and reliability.
 The major difference is in the teaching manner. They teach using “Codelabs” instead of videos unlike the former course
 ._
+	
+</details>
+
+### 🌟Keep your eyes on the state of the art while learning👀
+------------
+To keep yourself updated with the latest practices and features that android keeps on introducing very frequently, make sure that you visit these platforms regularly.
+</br>
+<details closed>
+<summary>Links to platforms</summary>
+<br>
+  
+|Platforms|Links|
+| ------ | ------ |
+| Official Android developer website | https://developer.android.com/ |
+| Android Developers Blog | https://android-developers.googleblog.com/ |
+| Android Developers Medium blog | https://medium.com/androiddevelopers |
+|Android Developers YouTube channel| https://www.youtube.com/user/androiddevelopers |
+| @AndroidDev on Twitter  | https://twitter.com/androiddev?lang=en |
+| Android Developer Newsletter | http://d.android.com/subscribe |
+ </br>
+</details>
 
 
  
-  ## _Cross Platform Track - Flutter_ ![file_type_flutter_icon_130599](https://user-images.githubusercontent.com/77982973/158015418-22478b9f-91f9-456c-9d50-0956e873ded5.png)
+
+## _Cross Platform Track - Flutter_ ![file_type_flutter_icon_130599](https://user-images.githubusercontent.com/77982973/158015418-22478b9f-91f9-456c-9d50-0956e873ded5.png)
 
   
   ### What is Flutter?
