@@ -13,7 +13,7 @@ You can start learning Kotlin from either of these three sources.
 <summary>✨Through Docs</summary>
 <br>
   
-- [Basic Syntax](https://kotlinlang.org/docs/basic-syntax.html/)
+- [Basic Syntax](https://kotlinlang.org/docs/basic-syntax.html)
 - [Understanding the syntax with examples](https://play.kotlinlang.org/byExample/overview)
   - _Cover Introduction and Control flow sections only_
 - [Practice through Kotlin Koans](https://play.kotlinlang.org/koans/overview)
