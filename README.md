@@ -23,10 +23,10 @@
 
 **Start your journey in Game Development [here](https://www.notion.so/DevSoc-Game-Development-Roadmap-6a41d14ab13c47d182530987e71a656c)**
 
-### User Interface and User Experience
+### User Interface and User Experience Design
 ![UI/UX](https://github.com/Devsoc-BPGC/curriculums/blob/main/imgs/80643ab8e05a4016df50c4e22a1c0767.jpg)
 
-**Start your journey in UI/UX [here](https://stirring-darkness-e60.notion.site/UI-UX-Roadmap-3e63d625ac6c4a14be4a516ff25820ac)**
+**Start your journey in UI/UX Design [here](https://stirring-darkness-e60.notion.site/UI-UX-Roadmap-3e63d625ac6c4a14be4a516ff25820ac)**
 
 
 
