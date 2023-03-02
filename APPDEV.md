@@ -75,7 +75,8 @@ Complete only the first three Lessons of this course at this stage._
 - [Playlist by Bilal Khan](https://youtube.com/playlist?list=PLk7v1Z2rk4hjgFKGBxDkb0f09ugBC0xOL)
   
  _This is a small OOPs Playlist by Bilal Khan, who is one of the best android developer YouTubers you can find nowadays._
- 
+
+ The video playlist is very exhaustive and industrial level, and is bit intimidiating for beginners. I recommend skipping the following parts : Delegation, singleton, sealed classes, extension and scope function. 
  
  ### 🌟Time to start Android development 
 --------------------
