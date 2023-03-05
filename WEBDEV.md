@@ -6,7 +6,7 @@
 #### Note:
 
 1. Never buy any course, everything is available for free on internet.
-2. If faceing any problem or bugs, google you can find everything on stackoverflow and documentation of libraries you are using.
+2. If facing any problem or bugs, google you can find everything on stackoverflow and documentation of libraries you are using.
 
 ## Vanilla WebDev (Basics)
 
@@ -82,7 +82,7 @@
 
   - [Download Postman | Get Started for Free](https://www.postman.com/downloads/)
 
-- Postman PLaylist (detailed)
+- Postman Playlist (detailed)
 
   - [Postman Beginner Tutorial](https://youtube.com/playlist?list=PLhW3qG5bs-L-oT0GenwPLcJAPD_SiFK3C)
 
