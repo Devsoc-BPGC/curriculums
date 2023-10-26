@@ -36,7 +36,7 @@ Please make sure to choose a project from the “Easy” category only_
 <summary>✨Udacity’s Course By Google</summary>
 <br>
   
-- [Kotlin Bootcamp for programmer](https://classroom.udacity.com/courses/ud9011)
+- [Kotlin Bootcamp for programmer]( https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011 )
   
  _These courses are taught by no one else but google’s own advocates and are really good in terms of content quality and lecture delivery.
 Complete only the first three Lessons of this course at this stage._
